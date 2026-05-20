@@ -1,0 +1,17 @@
+node_modules
+.next
+.vercel
+.venv
+__pycache__
+*.pyc
+.env
+.env.local
+# Local dependencies and build outputs
+node_modules/
+.next/
+.vercel/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.local
